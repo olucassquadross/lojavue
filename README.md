@@ -22,6 +22,7 @@ Middleware:
 
 CORS: Permite que o frontend se comunique com o backend, mesmo se estiverem em domínios diferentes.
 Express.json(): Permite que o servidor interprete corretamente os dados JSON enviados pelo frontend.
+
 Fluxo de Trabalho:
 O usuário navega pelos produtos disponíveis.
 O usuário seleciona a quantidade desejada e clica em "Comprar" para adicionar o produto ao carrinho.
